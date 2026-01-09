@@ -66,8 +66,8 @@ To run the analysis:
 
 1. Clone the repository:
    ```bash
-   git clone https:https://github.com/omidemam/flood_risk_dynamics.git
-   cd flood_risk_dynamics
+   git clone https:https://github.com/omidemam/CRISIS_Management.git
+   cd CRISIS_Management
 
 ## 📬 Contact
 
