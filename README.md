@@ -1,5 +1,6 @@
-# CRISIS-Management: Conditional Risk in Stormwater Infrastructure Systems — Resilient Management
-
+<p float="left">
+  <img src="Image/ChatGPT Image Jan 25, 2026, 08_21_40 PM.png"  />
+</p>
 This repository contains the codebase for the research paper:
 
 **Large-scale flood risk analysis of distributed stormwater infrastructure serving 2,300 catchments in New York State**
