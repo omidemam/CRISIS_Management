@@ -3,7 +3,7 @@
 </p>
 This repository contains the codebase for the research paper:
 
-**Large-scale flood risk analysis of distributed stormwater infrastructure serving 2,300 catchments in New York State**
+**Scalable flood-risk analysis for New York State culvert infrastructure reveals patterns of dependence**
 
 ## Overview
 
